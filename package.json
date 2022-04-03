@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
+    "babel-polyfill": "^6.26.0",
     "vue": "^2.5.11"
   },
   "browserslist": [
